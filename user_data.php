@@ -1,5 +1,5 @@
 <?php
-echo "Hello world <br/>";
+//echo "Hello world <br/>";
 if(isset($_POST['submit'])){
     $name = $_POST['Name'];
     $email = $_POST['email'];
